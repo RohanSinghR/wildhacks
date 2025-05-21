@@ -1,0 +1,1 @@
+This is the frontend of PyroWatch, the AI-powered wildfire detection system that won Best Overall Project at Uncommon Hacks 2025. Built with Flutter, it provides real-time fire alerts, visual monitoring, and system status — all in a clean, responsive UI for field deployment.
